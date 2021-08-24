@@ -27,8 +27,8 @@ jsproxy_config({
         'js.snioer.ml/': 3,
         'j.snioer.workers.dev/': 4,
         'jsp.snioer.workers.dev/': 3,
-        'oracleusa.ml/': ,2
-        'node-cfworker-2.etherdream.com': ,1,
+        'oracleusa.ml/': 2,
+        'node-cfworker-2.etherdream.com': 1,
 
 
         // 免费版（低权重，分摊一些成本）
